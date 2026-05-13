@@ -1,0 +1,14 @@
+torch>=2.6.0
+torchvision>=0.21.0
+torchaudio>=2.6.0
+monai==1.5.0
+torchmetrics
+connected-components-3d
+nibabel
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+ipywidgets
