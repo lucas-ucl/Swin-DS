@@ -1,7 +1,6 @@
-# Lacune Segmentation ICASSP Experiments
+# Lacune Segmentation 
 
-This repository contains the training, inference, and qualitative visualization code for the ICASSP lacune segmentation experiments. The original Colab notebooks have been converted into Python scripts for easier review, reuse, and version control.
-
+This repository contains the training, inference, and qualitative visualization code for experiments in *Swin-DS: A Deeply Supervised Transformer with Geometric Guidance for Robust Lacune Detection* accepted by **ICASSP 2026**.
 
 ## Setup
 
