@@ -107,12 +107,13 @@ The evaluation script expects fold checkpoints named `fold1_best.pth`, `fold2_be
 ## Citation
 
 ```bibtex
-@inproceedings{li2026swinds,
+@INPROCEEDINGS{11461885,
+  author={He, Lucas and Li, Krinos and Zhang, Hanyuan and Meng, Chunlei and Lorenzini, Luigi and Ingala, Silvia and Davies, Rhodri H. and Sudre, Carole H.},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
   title={Swin-DS: A Deeply Supervised Transformer with Geometric Guidance for Robust Lacune Detection},
-  author={Li, Krinos and others},
-  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
   year={2026},
-  organization={IEEE}
+  pages={8852-8856},
+  doi={10.1109/ICASSP55912.2026.11461885}
 }
 ```
 
